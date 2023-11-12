@@ -1,0 +1,46 @@
+{
+	"zones": {
+		"E": {
+			"running": {
+				"type": "speed",
+				"min": "5:50",
+				"max": "5:30"
+			}
+		},
+		"M": {
+			"running": {
+				"type": "speed",
+				"min": "5:01",
+				"max": "4:41"
+			}		
+		},
+		"T": {
+			"running": {
+				"type": "speed",
+				"min": "4:43",
+				"max": "4:23"
+			}			
+		},
+		"I": {
+			"running": {
+				"type": "speed",
+				"min": "4:22",
+				"max": "4:02"
+			}
+		},
+		"R200": {
+			"running": {
+				"type": "speed",
+				"min": "4:00",
+				"max": "3:40"
+			}
+		},
+		"R400": {
+			"running": {
+				"type": "speed",
+				"min": "4:05",
+				"max": "3:45"
+			}
+		}
+	}
+}

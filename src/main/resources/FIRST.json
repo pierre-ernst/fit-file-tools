@@ -1,0 +1,82 @@
+{
+	"zones": {
+		"RP": {
+			"running": {
+				"type": "speed",
+				"val": "6:00"
+			}
+		},
+		"P400": {
+			"running": {
+				"type": "speed",
+				"val": "3:52"
+			}
+		},
+		"P600": {
+			"running": {
+				"type": "speed",
+				"val": "3:55"
+			}
+		},
+		"P800": {
+			"running": {
+				"type": "speed",
+				"val": "3:57"
+			}
+		},
+		"P1000": {
+			"running": {
+				"type": "speed",
+				"val": "3:59"
+			}
+		},
+		"P1200": {
+			"running": {
+				"type": "speed",
+				"val": "4:02"
+			}
+		},
+		"P1600": {
+			"running": {
+				"type": "speed",
+				"val": "4:07"
+			}
+		},
+		"P2000": {
+			"running": {
+				"type": "speed",
+				"val": "4:10"
+			}
+		},
+		"ST": {
+			"running": {
+				"type": "speed",
+				"val": "4:26"
+			}
+		},
+		"MT": {
+			"running": {
+				"type": "speed",
+				"val": "4:36"
+			}
+		},
+		"LT": {
+			"running": {
+				"type": "speed",
+				"val": "4:45"
+			}
+		},
+		"HMP": {
+			"running": {
+				"type": "speed",
+				"val": "4:41"
+			}
+		},
+		"MP": {
+			"running": {
+				"type": "speed",
+				"val": "4:55"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+Type,Local Number,Message,Field 1,Value 1,Units 1,Field 2,Value 2,Units 2,Field 3,Value 3,Units 3,Field 4,Value 4,Units 4,Field 5,Value 5,Units 5,Field 6,Value 6,Units 6,Field 7,Value 7,Units 7,Field 8,Value 8,Units 8,Field 9,Value 9,Units 9,Field 10,Value 10,Units 10,Field 11,Value 11,Units 11,Field 12,Value 12,Units 12
+Definition,0,file_id,serial_number,1,,time_created,1,,unknown,1,,manufacturer,1,,product,1,,number,1,,type,1,,,,,,,,,,,,,,,,
+Data,0,file_id,serial_number,102168988,,time_created,891205777,,manufacturer,1,,garmin_product,65534,,type,5,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,file_creator,software_version,1,,hardware_version,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,file_creator,software_version,1805,,hardware_version,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,workout,capabilities,1,,wkt_name,16,,unknown,1,,num_valid_steps,1,,unknown,1,,unknown,1,,pool_length,1,,sport,1,,unknown,1,,sub_sport,1,,unknown,1,,pool_length_unit,1,
+Data,0,workout,capabilities,32,,wkt_name,RL5,,num_valid_steps,3,,sport,1,,,,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,workout_step,wkt_step_name,16,,duration_value,1,,target_value,1,,custom_target_value_low,1,,custom_target_value_high,1,,message_index,1,,duration_type,1,,target_type,1,,intensity,1,,notes,50,,equipment,1,,,,
+Data,0,workout_step,duration_distance,1609.34,,target_value,0,,message_index,0,,duration_type,1,,target_type,2,,intensity,2,,notes,Zone1,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_distance,13679.42,,target_value,0,,message_index,1,,duration_type,1,,target_type,2,,intensity,0,,notes,Zone2,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_distance,804.67,,target_value,0,,message_index,2,,duration_type,1,,target_type,2,,intensity,3,,notes,Zone1,,,,,,,,,,,,,,,,

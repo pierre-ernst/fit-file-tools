@@ -1,0 +1,26 @@
+VDOT = 46
+35km / week
+https://fellrnr.com/wiki/VDOT_Results?Vdot=46&Metric=true&Mileage=35&Weight=150
+
+E 5:40
+M 4:51
+T 4:33
+I 4:12
+R200 0:46 (3:50)
+R400 1:34 (3:55)
+
+2Q / Plan A / First Marathon
+
+A good rule of thumb is to increase VDOT one unit every four to six weeks.
+
+Phase II
+Amount of repetition running should not exceed 5% of the total weekly mileage
+
+Phase III
+Interval mileage should not exceed 8% of the total weekly mileage
+
+The third quality session is a long run that should be no longer than 25% of weekly total mileage or 120 minutes, whichever is shorter
+
+R pace in any single training session:
+duration: 3% of weekly total running time) but should not do more than 20 minutes
+

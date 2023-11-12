@@ -1,0 +1,4 @@
+Running
+RMI4
+5min Zone1, 5min Zone2, 2x(1:30 Zone5 / 2:30 Zone1), 2x(5min Zone4 / 2min Zone1), 10min Zone3, 2min Zone1, 2x(1:30 Zone5 / 2:30 Zone1), 2x(5min Zone4 / 2min Zone1), 5min Zone1
+13.9km / 1:11:00
